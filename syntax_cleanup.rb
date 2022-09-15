@@ -1,13 +1,13 @@
 # Clean Up the code below to improve readability.
 foods = {
-  "apples": 23,
-  "grapes": 507,
-  "eggs": 48
+  "apples" => 23,
+  "grapes" => 507,
+  "eggs" => 48
 }
 
 person = {
-  "height": "6 ft",
-  "weight": "160 lbs" 
+  "height" => "6 ft",
+  "weight" => "160 lbs"
 }
 
 post = {
